@@ -1,0 +1,5 @@
+
+.gitignore
+.idea/sonarlint/
+.idea/workspace.xml
+target
